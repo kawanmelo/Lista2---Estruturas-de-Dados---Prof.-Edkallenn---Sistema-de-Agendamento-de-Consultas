@@ -17,7 +17,6 @@ O sistema oferece as seguintes funcionalidades:
 - **Agendamento de consultas com Médico**: Utiliza uma fila estática que permite até 5 agendamentos por dia.
 - **Agendamento de consultas com Enfermagem**: Utiliza uma fila dinâmica sem limite de agendamentos.
 - **Consulta de agendamentos**: Permite visualizar os agendamentos atuais tanto com médicos quanto com enfermagem.
-- **Cancelamento de agendamentos**: Permite cancelar um agendamento específico.
 
 - ## Contato
 - **Autor:** Kawan Melo
